@@ -4,7 +4,6 @@
 
   <a href="https://codewithsadee.github.io/grilli/" align="center"><strong>➥ Live Demo</strong></a>
 
-</div>
 
 <br />
 
