@@ -1,6 +1,6 @@
   <h2 align="center">Grilli - Restaurant Website</h2>
 
-  <p> Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript. </p>
+  <p align="center"> Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript. </p>
 
   <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
